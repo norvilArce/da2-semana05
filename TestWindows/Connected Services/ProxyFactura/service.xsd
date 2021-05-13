@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://schemas.datacontract.org/2004/07/WCF_Ventas" />
+  <xs:element name="GetAllFacturasClienteFechas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="strCod" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="fecini" type="xs:dateTime" />
+        <xs:element minOccurs="0" name="fecfin" type="xs:dateTime" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetAllFacturasClienteFechasResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/WCF_Ventas" minOccurs="0" name="GetAllFacturasClienteFechasResult" nillable="true" type="q1:ArrayOfFacturaBE" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetAllFacturasVendedorFechas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="strCod" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="fecini" type="xs:dateTime" />
+        <xs:element minOccurs="0" name="fecfin" type="xs:dateTime" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetAllFacturasVendedorFechasResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q2="http://schemas.datacontract.org/2004/07/WCF_Ventas" minOccurs="0" name="GetAllFacturasVendedorFechasResult" nillable="true" type="q2:ArrayOfFacturaBE" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

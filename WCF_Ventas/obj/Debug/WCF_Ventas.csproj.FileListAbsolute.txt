@@ -1,0 +1,12 @@
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\WCF_Ventas\obj\Debug\WCF_Ventas.csprojAssemblyReference.cache
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\WCF_Ventas\obj\Debug\WCF_Ventas.csproj.CoreCompileInputs.cache
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\WCF_Ventas\bin\Debug\WCF_Ventas.dll.config
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\WCF_Ventas\bin\Debug\WCF_Ventas.dll
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\WCF_Ventas\bin\Debug\WCF_Ventas.pdb
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\WCF_Ventas\bin\Debug\EntityFramework.dll
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\WCF_Ventas\bin\Debug\EntityFramework.SqlServer.dll
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\WCF_Ventas\bin\Debug\EntityFramework.xml
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\WCF_Ventas\bin\Debug\EntityFramework.SqlServer.xml
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\WCF_Ventas\obj\Debug\WCF_Ventas.csproj.CopyComplete
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\WCF_Ventas\obj\Debug\WCF_Ventas.dll
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\WCF_Ventas\obj\Debug\WCF_Ventas.pdb

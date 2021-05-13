@@ -1,0 +1,10 @@
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\TestWindows\obj\Debug\TestWindows.csprojAssemblyReference.cache
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\TestWindows\obj\Debug\TestWindows.Form2.resources
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\TestWindows\obj\Debug\TestWindows.Properties.Resources.resources
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\TestWindows\obj\Debug\TestWindows.csproj.GenerateResource.cache
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\TestWindows\obj\Debug\TestWindows.csproj.CoreCompileInputs.cache
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\TestWindows\bin\Debug\TestWindows.exe.config
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\TestWindows\bin\Debug\TestWindows.exe
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\TestWindows\bin\Debug\TestWindows.pdb
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\TestWindows\obj\Debug\TestWindows.exe
+D:\ISIL\DESARROLLO DE SOFTWARE\4to ciclo\DESARROLLO DE APLICACIONES II\clases\semana04\DemoWCF_Entity\TestWindows\obj\Debug\TestWindows.pdb
